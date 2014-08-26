@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">SoundPlayer</string>
+  <string name="title">Click a button to play the Welcome sound</string>
+  <string name="action_settings">Settings</string>
+
+</resources>
